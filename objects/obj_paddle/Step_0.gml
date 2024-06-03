@@ -5,7 +5,7 @@
 prev_x = x;
 
 // Define a constant speed for the paddle
-var move_speed = 5;
+var move_speed = 100;
 
 // Paddle movement
 if (keyboard_check(vk_left)) {

@@ -1,3 +1,3 @@
-speed = 4;
+speed = 2;
 
 direction = -45;

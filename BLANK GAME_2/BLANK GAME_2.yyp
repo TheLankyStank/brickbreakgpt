@@ -1,6 +1,6 @@
 {
   "$GMProject":"",
-  "%Name":"BLANK GAME GPT",
+  "%Name":"BLANK GAME_2",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -32,24 +32,14 @@
   "MetaData":{
     "IDEVersion":"2024.4.1.152",
   },
-  "name":"BLANK GAME GPT",
+  "name":"BLANK GAME_2",
   "resources":[
-    {"id":{"name":"obj_ball","path":"objects/obj_ball/obj_ball.yy",},},
-    {"id":{"name":"obj_brick","path":"objects/obj_brick/obj_brick.yy",},},
-    {"id":{"name":"obj_game_controller","path":"objects/obj_game_controller/obj_game_controller.yy",},},
-    {"id":{"name":"obj_paddle","path":"objects/obj_paddle/obj_paddle.yy",},},
-    {"id":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},},
-    {"id":{"name":"rm_victory","path":"rooms/rm_victory/rm_victory.yy",},},
-    {"id":{"name":"spr_ball","path":"sprites/spr_ball/spr_ball.yy",},},
-    {"id":{"name":"spr_brick","path":"sprites/spr_brick/spr_brick.yy",},},
-    {"id":{"name":"spr_paddle","path":"sprites/spr_paddle/spr_paddle.yy",},},
-    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},},
-    {"roomId":{"name":"rm_victory","path":"rooms/rm_victory/rm_victory.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

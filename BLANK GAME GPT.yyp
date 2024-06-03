@@ -40,6 +40,7 @@
     {"id":{"name":"obj_paddle","path":"objects/obj_paddle/obj_paddle.yy",},},
     {"id":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},},
     {"id":{"name":"rm_victory","path":"rooms/rm_victory/rm_victory.yy",},},
+    {"id":{"name":"snd_wow","path":"sounds/snd_wow/snd_wow.yy",},},
     {"id":{"name":"spr_ball","path":"sprites/spr_ball/spr_ball.yy",},},
     {"id":{"name":"spr_brick","path":"sprites/spr_brick/spr_brick.yy",},},
     {"id":{"name":"spr_paddle","path":"sprites/spr_paddle/spr_paddle.yy",},},

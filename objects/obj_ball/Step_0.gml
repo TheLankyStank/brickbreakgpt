@@ -45,6 +45,14 @@ if (place_meeting(x, y, obj_brick)) {
             instance_destroy();
         }
         global.score += 10; // Update the score
+		// Define a random pitch value between 0.5 and 1.5 (you can adjust this range as needed)
+		var random_pitch = random_range(0.5, 1.5);
+
+		// Play the sound snd_wow
+		var sound_id = audio_play_sound(snd_wow, 0, false);
+
+		// Set the pitch of the playing sound
+		audio_sound_pitch(sound_id, random_pitch);
         direction = -direction; // Reflect vertically
     }
 }

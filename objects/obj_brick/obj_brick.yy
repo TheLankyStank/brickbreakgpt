@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_brick",
-    "path":"sprites/spr_brick/spr_brick.yy",
+    "name":"spr_sponge",
+    "path":"sprites/spr_sponge/spr_sponge.yy",
   },
   "spriteMaskId":null,
   "visible":true,

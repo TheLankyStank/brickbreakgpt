@@ -44,6 +44,8 @@
     {"id":{"name":"spr_ball","path":"sprites/spr_ball/spr_ball.yy",},},
     {"id":{"name":"spr_brick","path":"sprites/spr_brick/spr_brick.yy",},},
     {"id":{"name":"spr_paddle","path":"sprites/spr_paddle/spr_paddle.yy",},},
+    {"id":{"name":"spr_sponge","path":"sprites/spr_sponge/spr_sponge.yy",},},
+    {"id":{"name":"spr_squig","path":"sprites/spr_squig/spr_squig.yy",},},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
   ],
   "resourceType":"GMProject",

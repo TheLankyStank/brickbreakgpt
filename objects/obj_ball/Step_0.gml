@@ -34,6 +34,7 @@ if (place_meeting(x, y, obj_paddle)) {
         // Increase speed slightly to make the game progressively harder
         speed += 0.1;
     }
+	
 }
 
 // Check for collision with bricks
